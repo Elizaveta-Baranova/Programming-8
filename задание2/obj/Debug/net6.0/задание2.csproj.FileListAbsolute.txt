@@ -1,0 +1,15 @@
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\obj\Debug\net6.0\задание2.csproj.AssemblyReference.cache
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\obj\Debug\net6.0\задание2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\obj\Debug\net6.0\задание2.AssemblyInfoInputs.cache
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\obj\Debug\net6.0\задание2.AssemblyInfo.cs
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\obj\Debug\net6.0\задание2.csproj.CoreCompileInputs.cache
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\bin\Debug\net6.0\задание2.exe
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\bin\Debug\net6.0\задание2.deps.json
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\bin\Debug\net6.0\задание2.runtimeconfig.json
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\bin\Debug\net6.0\задание2.dll
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\bin\Debug\net6.0\задание2.pdb
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\obj\Debug\net6.0\задание2.dll
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\obj\Debug\net6.0\refint\задание2.dll
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\obj\Debug\net6.0\задание2.pdb
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\obj\Debug\net6.0\задание2.genruntimeconfig.cache
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание2\obj\Debug\net6.0\ref\задание2.dll
