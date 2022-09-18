@@ -1,0 +1,15 @@
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\bin\Debug\net6.0\задание4.exe
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\bin\Debug\net6.0\задание4.deps.json
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\bin\Debug\net6.0\задание4.runtimeconfig.json
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\bin\Debug\net6.0\задание4.dll
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\bin\Debug\net6.0\задание4.pdb
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\obj\Debug\net6.0\задание4.csproj.AssemblyReference.cache
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\obj\Debug\net6.0\задание4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\obj\Debug\net6.0\задание4.AssemblyInfoInputs.cache
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\obj\Debug\net6.0\задание4.AssemblyInfo.cs
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\obj\Debug\net6.0\задание4.csproj.CoreCompileInputs.cache
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\obj\Debug\net6.0\задание4.dll
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\obj\Debug\net6.0\refint\задание4.dll
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\obj\Debug\net6.0\задание4.pdb
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\obj\Debug\net6.0\задание4.genruntimeconfig.cache
+C:\Users\Бека\Desktop\разработчик\Програмирование\семинар8\задание4\obj\Debug\net6.0\ref\задание4.dll
